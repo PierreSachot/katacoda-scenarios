@@ -20,5 +20,6 @@
   },
   "backend": {
     "imageid": "docker"
+    "imageid": "java8"
   }
 }
