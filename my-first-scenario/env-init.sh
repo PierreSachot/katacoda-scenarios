@@ -1,3 +1,1 @@
-docker pull dockerfile/java
-docker pull https://github.com/PierreSachot/katacoda-scenarios
-export KICHWA=23
+git clone  --depth 1 https://github.com/PierreSachot/katacoda-scenarios.git .
