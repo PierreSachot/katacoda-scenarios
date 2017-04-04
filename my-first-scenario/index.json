@@ -1,6 +1,6 @@
 {
-  "title": "My First Scenario",
-  "description": "Learning how to educate via Katacoda",
+  "title": "Trying to import java online",
+  "description": "Learning how to import",
   "details": {
     "steps": [
       { "title": "Title", "text": "step1.md" },
