@@ -4,5 +4,5 @@ curl https://codeload.github.com/yannick-mayeur/mvnTest/zip/master > yannick.zip
 unzip yannick.zip
 cp -r january-master/* .
 rm jan.zip
-rm yannicj.zip
+rm yannick.zip
 rm -Rf january-master/
