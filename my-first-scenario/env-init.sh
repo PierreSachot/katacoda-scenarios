@@ -2,4 +2,4 @@
  unzip master.zip
 cd /home/scrapbook/tutorial/katacoda-scenarios-master/my-first-scenario/Java
 javac Main.java
-java Main.class
+java Main
