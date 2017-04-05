@@ -19,6 +19,6 @@
     "uilayout": "terminal-editor"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "java8"
   }
 }
