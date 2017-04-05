@@ -3,9 +3,8 @@
   "description": "Learning how to import",
   "details": {
     "steps": [
-      { "title": "Maven in January", "text": "step1.md" },
-      { "title": "Install Maven files", "text": "step2.md" },
-      { "title": "Execute Maven in target", "text": "step3.md" }
+      { "title": "Install Maven files", "text": "step1.md" },
+      { "title": "Execute the code", "text": "step2.md" }
     ],
     "intro": {
       "text": "intro.md",
