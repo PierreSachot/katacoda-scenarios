@@ -17,6 +17,9 @@
       "text": "finish.md"
     }
   },
+  "files": [
+    "BasicExample.java"
+  ],
   "environment": {
     "uilayout": "terminal-editor",
     "uimessage1": "\u001b[32mJanuary library online.\u001b[m\r\n"
