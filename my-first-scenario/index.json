@@ -4,8 +4,7 @@
   "details": {
     "steps": [
       {   "title": "Install Maven files", "text": "step1.md",
-          "code": "changeToRightDirectory.sh",
-          "file": "mvnTest-master/src/BasicExample.java"},
+          "code": "changeToRightDirectory.sh"},
       {   "title": "Execute the code", "text": "step2.md",      
           "code": "changeToTargetDirectory.sh" }
     ],
