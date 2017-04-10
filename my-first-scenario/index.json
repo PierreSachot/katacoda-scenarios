@@ -3,8 +3,7 @@
   "description": "Learning how to import",
   "details": {
     "steps": [
-      {   "title": "Install Maven files", "text": "step1.md",
-          "code": "changeToRightDirectory.sh"},
+      {   "title": "Install Maven files", "text": "step1.md"},
       {   "title": "Execute the code", "text": "step2.md",      
           "code": "changeToTargetDirectory.sh" }
     ],
