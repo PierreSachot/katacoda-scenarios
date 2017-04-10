@@ -18,7 +18,7 @@
     }
   },
   "files": [
-    "BasicExample.java"
+    "mvnTest-master/src/BasicExample.java"
   ],
   "environment": {
     "uilayout": "terminal-editor",
