@@ -4,7 +4,8 @@
   "details": {
     "steps": [
       {   "title": "Install Maven files", "text": "step1.md",
-          "code": "changeToRightDirectory.sh"},
+          "code": "changeToRightDirectory.sh",
+          "files": ["mvnTest-master/src/BasicExample.java"]},
       {   "title": "Execute the code", "text": "step2.md",      
           "code": "changeToTargetDirectory.sh" }
     ],
@@ -16,9 +17,7 @@
       "text": "finish.md"
     }
   },
-  "files": [
-    "mvnTest-master/src/BasicExample.java"
-  ],
+  
   "environment": {
     "uilayout": "terminal-editor",
     "uimessage1": "\u001b[32mJanuary library online.\u001b[m\r\n"
