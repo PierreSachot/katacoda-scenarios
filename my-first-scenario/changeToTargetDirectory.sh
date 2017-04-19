@@ -1,1 +1,1 @@
-cd target
+mvn clean package
