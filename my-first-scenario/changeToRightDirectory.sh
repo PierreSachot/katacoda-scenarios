@@ -1,1 +1,1 @@
-cd mvnTest-master
+cd mvnTestJanuary-master
